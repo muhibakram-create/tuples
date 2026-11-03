@@ -1,0 +1,8 @@
+tuples = (1,2,3,4,5)
+print(tuples)
+tuple1 = tuples+ (6,)
+print(tuple1)
+print(tuples[0:5])
+print(tuples[:3])
+tuple2 = (100,200,100,400,700,600,800,300,100)
+print(tuple2.count(100))
